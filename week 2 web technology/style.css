@@ -1,0 +1,33 @@
+nav{
+    text-align : center;
+    display: block;
+    overflow : hidden;
+    border:  10px;
+    padding : 1px;
+    }    
+nav a{
+    display : inline-block;
+    margin : 10px 10px;
+    border: 100px;
+    font: serif;
+}
+nav a :hover{
+    height : 30px;
+    width : 8px;
+    background-color: orangered;
+    box-align : center;
+}
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+body{
+    background-image: url("sand.jpg");
+}
+div {
+    width: 300px;
+    border: 15px solid orange;
+    padding: 50px;
+    margin: 20px;
+  }
